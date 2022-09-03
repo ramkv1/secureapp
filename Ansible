@@ -1,0 +1,5 @@
+etc/ansible/ansible.cfg---->ansible home path
+
+Inventary file-->host
+
+ansible is a module based tool--->3387
